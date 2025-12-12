@@ -1,4 +1,4 @@
-!(https://u.yufu.su/3cR.png)
+![Жизнь](https://u.yufu.su/3cR.png)
 
 <!--
 **Anerson-Auf/Anerson-Auf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
